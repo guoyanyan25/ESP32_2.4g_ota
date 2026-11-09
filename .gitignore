@@ -1,0 +1,16 @@
+# Git 忽略规则
+
+# 注意：py32_ota.cpp 从 raw.githubusercontent.com 直接下载 bin，
+# 所以 .bin 文件必须提交到 GitHub 仓库，这里不要忽略。
+# 如果将来改用 GitHub Release 方式托管固件，可打开下面两行：
+# firmwares/py32f003/stable/*.bin
+# firmwares/py32f003/beta/*.bin
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 编辑临时文件
+*.swp
+*.tmp
