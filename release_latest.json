@@ -5,14 +5,14 @@
         "version": "1.0.2",
         "url": "https://raw.githubusercontent.com/guoyanyan25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_A_1.0.2.bin",
         "slot": "A",
-        "checksum": "fbb81242ecc0b3c67c729df3b18e9dea3233d41ede6f2a624c7e132b915caca8",
+        "checksum": "71687a5ad8e8ba72d3d3a9b5d22dc86588270cd8fd5b54f93402502d43268582",
         "description": "v1.0.2 稳定版 (slot A) - 2.4G 遥控器固件"
       },
       {
         "version": "1.0.2",
         "url": "https://raw.githubusercontent.com/guoyanyan25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_B_1.0.2.bin",
         "slot": "B",
-        "checksum": "e2014dfcacb145efcbbb03dbccfee80ea9a89522fada8257783ffad5d6aea0f8",
+        "checksum": "d2478d8e7c65df97374ece7485556470f81b0a0dc1d15810d069c8aeb968ded7",
         "description": "v1.0.2 稳定版 (slot B) - 2.4G 遥控器固件"
       }
     ],
