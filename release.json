@@ -6,14 +6,14 @@
         "url": "https://raw.githubusercontent.com/guoyanyan25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_A_1.0.2.bin",
         "slot": "A",
         "checksum": "71687a5ad8e8ba72d3d3a9b5d22dc86588270cd8fd5b54f93402502d43268582",
-        "description": "v1.0.2 稳定版 (slot A) - 2.4G 遥控器接收端固件，新的分区，测试版"
+        "description": "v1.0.2 稳定版 (slot A) -此版本对应WLED_V16.0.1版本，主要跟新了分区，bootloader,app_a/app_b"
       },
       {
         "version": "1.0.2",
         "url": "https://raw.githubusercontent.com/guoyanyan25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_B_1.0.2.bin",
         "slot": "B",
         "checksum": "d2478d8e7c65df97374ece7485556470f81b0a0dc1d15810d069c8aeb968ded7",
-        "description": "v1.0.2 稳定版 (slot B) - 2.4G 遥控器接收端固件，新的分区，测试版"
+        "description": "v1.0.2 稳定版 (slot B) - 此版本对应WLED_V16.0.1版本，主要跟新了分区，bootloader,app_a/app_b"
       },
       {
         "version": "1.0.1",
